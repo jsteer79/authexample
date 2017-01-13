@@ -1,0 +1,19 @@
+{
+  "name": "AuthExample",
+  "version": "1.0.0",
+  "description": "Example of a simple API authentication scheme",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "j.steer@sthree.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "supertest": "^2.0.0"
+  },
+  "engines": {
+    "node": "4.4.x"
+  }
+}
